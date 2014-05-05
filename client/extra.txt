@@ -1,0 +1,62 @@
+				<div class="item well span3"> 
+					<div class="thumbnail"><a class="pull-left" href="#" target="_parent"><img data-source="holder.js/300x200" class="img-responsive" src="{{image}}">{{image}}</a></div>
+					<div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 profile-listing"> 
+						<div class="clearfix visible-sm"></div>
+						<div class="content fnt-smaller">
+								<a href="{{pathfor 'profilePage'}}" target="_parent">
+								</a>
+								<h2 class="media-heading">
+									<a href="{{pathfor 'profilePage'}}" target="_parent">${{rate}} <small><h2>{{name}}</h2></small><small class="pull-right">{{address}}</small></a>
+								</h2>
+								<p>
+								<ul class="list-inline mrg-0 btm-mrg-10 clr-533333">	
+									<li>LinkedIn: {{linkedin}}</li>
+									<li style="list-style: none"></li>
+									
+									<li>Experience: {{experience}}</li>
+									<li style="list-style: none"></li>
+									<li>About: {{about}}</li>
+									<li style="list-style: none"></li>
+									<li>Background: {{background}}</li>
+									<li style="list-style: none"></li>
+									<li>Reviews: {{reviews}}</li>
+									<li style="list-style: none"></li>
+									<li>Online: {{available}}</li>
+									<li style="list-style: none"></li>
+									
+								</ul>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="item well span3"> 
+					<div class="thumbnail"><a class="pull-left" href="#" target="_parent"><img data-source="holder.js/300x200" class="img-responsive" src="{{image}}">{{image}}</a></div>
+					<div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 profile-listing"> 
+						<div class="clearfix visible-sm"></div>
+						<div class="content fnt-smaller">
+								<a href="{{pathfor 'profilePage'}}" target="_parent">
+								</a>
+								<h2 class="media-heading">
+									<a href="{{pathfor 'profilePage'}}" target="_parent">${{rate}} <small><h2>{{name}}</h2></small><small class="pull-right">{{address}}</small></a>
+								</h2>
+								<p>
+								<ul class="list-inline mrg-0 btm-mrg-10 clr-533333">	
+									<li>LinkedIn: {{linkedin}}</li>
+									<li style="list-style: none"></li>
+									
+									<li>Experience: {{experience}}</li>
+									<li style="list-style: none"></li>
+									<li>About: {{about}}</li>
+									<li style="list-style: none"></li>
+									<li>Background: {{background}}</li>
+									<li style="list-style: none"></li>
+									<li>Reviews: {{reviews}}</li>
+									<li style="list-style: none"></li>
+									<li>Online: {{available}}</li>
+									<li style="list-style: none"></li>
+									
+								</ul>
+							</p>
+						</div>
+					</div>
+				</div>

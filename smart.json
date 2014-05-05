@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "iron-router": {},
+    "chatworks": {},
+    "spin": {},
+    "accounts-entry": {},
+    "accounts-merge": {},
+    "accounts-linkedin": {},
+    "accounts-ui-bootstrap-3-blaze": {},
+    "roles": {},
+    "accounts-admin-ui-bootstrap-3": {},
+    "fullcalendar": {}
+  }
+}

@@ -1,0 +1,39 @@
+<template name="editProfile">
+	<form class="main">
+		<div class="control-group">
+			<label class="control-label" for="name">Name  </label>
+			<input name="name" type="text" value="{{name}}" placeholder="fullname"/>
+		</div>
+		<div class="control-group">
+			<label class="control-label" for="price">Price  </label>
+			<input name="price" type="text" value="{{price}}" placeholder="price"/>
+		</div>
+		<div class="control-group">
+			<label class="control-label" for="address">Address  </label>
+			<input name="address" type="text" value="{{address}}" placeholder="address">
+			
+		</div>
+		<div class="control-group">
+			<label class="control-label" for="experience">Experience</label>
+			
+				<input name="experience" type="text" placeholder="experience" value="{{experience}}"/>
+		</div>
+		<div class="control-group">
+			<label class="control-label" for="education">Education</label>
+			<input name="education" type="text" value="{{education}}" placeholder=""/>
+		</div>
+		<div class="control-group">
+			<label class="control-label" for="background">Background</label>
+			<div class="controls">
+				<textarea name="background" type="text" value="{{background}}"></textarea>
+			</div>
+		</div>
+		<div class="control-group">
+			<div class="controls">
+				
+				<input type="submit" value="Submit" class="btn btn-primary" />
+			</div>
+			
+		</div>
+ 	</form>
+</template>

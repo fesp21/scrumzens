@@ -1,0 +1,16 @@
+<template name="company">
+	<div class="container">
+		<ul class="info">
+			<li>{{name}}</li>
+			
+			<li> {{city}}</li>
+			<li> {{email}}</li>
+			<li> {{state}}</li>
+			<div class="jobs">
+				{{#each jobs}}
+					{{> job}}
+				{{/each}}
+			</div>
+		</ul>
+	</div>
+</template>

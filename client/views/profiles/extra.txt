@@ -1,0 +1,170 @@
+	                  <div class="col-xs-12 col-sm-6 col-md-4">
+	            <div class="clearfix xs-margin-bottom-large sm-margin-top-large md-margin-bottom-large">
+		
+		    
+
+		<div class="clearfix xs-margin-top-small sm-margin-top-small md-margin-top-small">
+			<div class="pull-left">
+			    <h2 class="weight--normal epsilon text-primary xs-margin-null sm-margin-bottom-small">Word Rage</h2>
+			    <h4 class="eta text-heading text-tertiary xs-margin-null">$15,000, Mobile Dev &amp; Design</h4>
+		    </div> <!-- close .pull-left -->
+		    <div class="pull-right">
+			    <h5 class="beta xs-margin-null"><a href="https://itunes.apple.com/us/app/word-rage-game-play-against/id589625001?mt=8" title="Word Rage — View this project" target="_blank"><span class="icon icon-external" aria-hidden="true"></span></a></h5>
+		    </div> <!-- close .pull-right -->
+		</div> <!-- close .clearfix -->
+	</div> <!-- close .md-margin-bottom -->          </div> <!-- close .col -->
+	                  <div class="col-xs-12 col-sm-6 col-md-4">
+	            <div class="clearfix xs-margin-bottom-large sm-margin-top-large md-margin-bottom-large">
+		<div class="clearfix xs-margin-bottom-large">
+			<a href="/projects/work_with/17138" class="js-tooltip" data-toggle="tooltip" title="" data-original-title="Start your project today and work with Pawel K!">
+			    <img src="/img/example-projects/web/damn-fine-prints.png" alt="Damn Fine Prints by Pawel K" class="img-responsive">
+		    </a>
+		</div>
+
+		<div class="clearfix xs-margin-top-small sm-margin-top-small md-margin-top-small">
+			<div class="pull-left">
+			    <h2 class="weight--normal epsilon text-primary xs-margin-null sm-margin-bottom-small">Damn Fine Prints</h2>
+			    <h4 class="eta text-heading text-tertiary xs-margin-null">$7,500, Web Design</h4>
+		    </div> <!-- close .pull-left -->
+		    <div class="pull-right">
+			    <h5 class="beta xs-margin-null"><a href="http://beta.damnfineprints.com/" title="Damn Fine Prints — View this project" target="_blank"><span class="icon icon-external" aria-hidden="true"></span></a></h5>
+		    </div> <!-- close .pull-right -->
+		</div> <!-- close .clearfix -->
+	</div> <!-- close .md-margin-bottom -->          </div> <!-- close .col -->
+	                  <div class="col-xs-12 col-sm-6 col-md-4">
+	            <div class="clearfix xs-margin-bottom-large sm-margin-top-large md-margin-bottom-large">
+		<div class="clearfix xs-margin-bottom-large">
+			<a href="/projects/work_with/16529" class="js-tooltip" data-toggle="tooltip" title="" data-original-title="Start your project today and work with 3DROPS!">
+			    <img src="/img/example-projects/web/smart-bedding.png" alt="Smart Bedding by 3DROPS" class="img-responsive">
+		    </a>
+		</div>
+
+		<div class="clearfix xs-margin-top-small sm-margin-top-small md-margin-top-small">
+			<div class="pull-left">
+			    <h2 class="weight--normal epsilon text-primary xs-margin-null sm-margin-bottom-small">Smart Bedding</h2>
+			    <h4 class="eta text-heading text-tertiary xs-margin-null">$6,000, Web Dev &amp; Design</h4>
+		    </div> <!-- close .pull-left -->
+		    <div class="pull-right">
+			    <h5 class="beta xs-margin-null"><a href="http://smartbedding.com/" title="Smart Bedding — View this project" target="_blank"><span class="icon icon-external" aria-hidden="true"></span></a></h5>
+		    </div> <!-- close .pull-right -->
+		</div> <!-- close .clearfix -->
+	</div> <!-- close .md-margin-bottom -->          </div> <!-- close .col -->
+	                  <div class="col-xs-12 col-sm-6 col-md-4">
+	            <div class="clearfix xs-margin-bottom-large sm-margin-top-large md-margin-bottom-large">
+		<div class="clearfix xs-margin-bottom-large">
+			<a href="/projects/work_with/17155" class="js-tooltip" data-toggle="tooltip" title="" data-original-title="Start your project today and work with Allan G!">
+			    <img src="/img/example-projects/web/layervault.png" alt="Layervault by Allan G" class="img-responsive">
+		    </a>
+		</div>
+
+		<div class="clearfix xs-margin-top-small sm-margin-top-small md-margin-top-small">
+			<div class="pull-left">
+			    <h2 class="weight--normal epsilon text-primary xs-margin-null sm-margin-bottom-small">Layervault</h2>
+			    <h4 class="eta text-heading text-tertiary xs-margin-null">$15,000, Web Design</h4>
+		    </div> <!-- close .pull-left -->
+		    <div class="pull-right">
+			    <h5 class="beta xs-margin-null"><a href="https://www.layervault.com" title="Layervault — View this project" target="_blank"><span class="icon icon-external" aria-hidden="true"></span></a></h5>
+		    </div> <!-- close .pull-right -->
+		</div> <!-- close .clearfix -->
+	</div> <!-- close .md-margin-bottom -->          </div> <!-- close .col -->
+	              </div> <!-- close .row -->
+
+	      <div class="row text-center">
+	          <a href="/inspiration" class="btn btn-default" title="View more projects by ooomf members">View more inspiration</a>
+	      </div> <!-- close .row-fluid -->
+	    </div> <!-- close .container -->
+	  </div> <!-- close .sheet -->
+    <div class="sheet sheet--padding" style="">
+       <div class="container">
+         <div class="row">
+           <div class="col-sm-4 col-md-5 hidden-xs">
+               <img src="/img/submit-project.png" alt="Reach 1000 professional freelancers in 48 hours." class="img-responsive">
+           </div> <!-- close .col -->
+           <div class="col-sm-8 col-md-7">
+             <h2 class="gamma text-primary text-heading">Only the best</h2>
+             <div class="content--large">
+               <p class="text-secondary weight--normal">Find the best pre-screened, handpicked developers and designers.</p>
+               <ul class="text-secondary content">
+                 <li><p>Easy submission - we help you fill in the blanks</p></li>
+                 <li><p>The best applicants - we match you with the right talent</p></li>
+                 <li><p>Fast - our pros are ready to start today</p></li>
+                 <li><p>Safety - secure payments and a money-back guarantee</p></li>
+               </ul>
+             </div> <!-- close .content -->
+           </div> <!-- close .col -->
+         </div> <!-- close .row -->
+       </div> <!-- close .container -->
+     </div> <!-- close .sheet -->
+
+     <div class="sheet sheet--light sheet--padding" style="">
+       <div class="container">
+         <div class="row">
+           <div class="col-sm-8 col-md-7">
+             <h2 class="gamma text-primary md-margin-bottom text-heading">Results without the overhead</h2>
+             <div class="content--large">
+               <p class="text-secondary">We take care of the tough stuff so your professional can get straight to business. This decreases the cost of your project without compromising quality.</p>
+             </div> <!-- close .content -->
+           </div> <!-- close .col -->
+           <div class="col-sm-4 col-md-5 hidden-xs">
+               <img src="/img/save-money.png" class="img-responsive" alt="Decrease the overall cost of your project by working with ooomf professionals.">
+           </div> <!-- close .col -->
+         </div> <!-- close .row -->
+       </div> <!-- close .container -->
+     </div> <!-- close .sheet -->
+
+     <div class="sheet sheet--padding" style=""><div class="container">
+         <div class="row">
+           <div class="col-sm-4 col-md-5 hidden-xs">
+             <img src="/img/quality-professionals.png" class="img-responsive" alt="ooomf provides the best, handpicked freelancers.">
+           </div> <!-- close .col -->
+           <div class="col-sm-8 col-md-7">
+             <h2 class="gamma text-primary md-margin-bottom text-heading">What do we mean by quality?</h2>
+             <div class="content--large">
+               <p>Our members have all done it before. How do we know? Each one receives an extensive manual review (yes, by humans) before being accepted.</p>
+             </div> <!-- close .content -->
+             <ul class="inline hidden-xs list-inline md-margin-top content--large">
+               <li><p><a href="#" data-toggle="tooltip" class="js-tooltip" title="" data-original-title="All ooomf members must submit a portfolio with quality past work to be considered for acceptance."><span class="icon icon-briefcase" aria-hidden="true"></span></a></p></li>
+
+               <li><p><a href="#" data-toggle="tooltip" class="js-tooltip" title="" data-original-title="Dribbble is a community of designers. We review past work and skill set."><span class="icon icon-dribbble" aria-hidden="true"></span></a></p></li>
+
+               <li><p><a href="#" data-toggle="tooltip" class="js-tooltip" title="" data-original-title="Behance is another community for designers. We look at past work."><span class="icon icon-behance" aria-hidden="true"></span></a></p></li>
+
+               <li><p><a href="#" data-toggle="tooltip" class="js-tooltip" title="" data-original-title="StackOverflow is a Q &amp; A site for programmers. We look for quality answers and contribution."><span class="icon icon-stack-overflow make-icon-bigger" aria-hidden="true"></span></a></p></li>
+
+               <li><p><a href="#" data-toggle="tooltip" class="js-tooltip" title="" data-original-title="GitHub is a place to store code for developers. We review participation in projects as an indication of a love for writing software and an ability to collaborate."><span class="icon icon-github make-icon-bigger" aria-hidden="true"></span></a></p></li>
+
+               <li><p><a href="#" data-toggle="tooltip" class="js-tooltip" title="" data-original-title="If you want to build an app, we make sure you're getting in touch with developers who not only have done it before, but have put on a 4-star performance or better."><span class="icon icon-apple make-icon-bigger" aria-hidden="true"></span></a></p></li>
+
+               <li><p><a href="#" data-toggle="tooltip" class="js-tooltip" title="" data-original-title="We've got Android covered too. We make sure you're getting in touch with developers who not only have done it before, but have put on a 4-star performance or better."><span class="icon icon-android make-icon-bigger" aria-hidden="true"></span></a></p></li>
+
+               <li><p><a href="#" data-toggle="tooltip" class="js-tooltip" title="" data-original-title="We even look at what our members are reading or tweeting about to get a feel for their love of what they do."><span class="icon icon-twitter" aria-hidden="true"></span></a></p></li>
+             </ul>
+           </div> <!-- close .col -->
+         </div> <!-- close .row -->
+       </div> <!-- close .container -->
+	   <div class="sheet sheet--padding" style="">
+    <div class="container">
+      <div class="clearfix text-center xs-margin-bottom-large sm-margin-bottom-large md-margin-bottom-large">
+          <h3 class="epsilon text-heading text-primary">What people are saying about ooomf</h3>
+          <div class="no-underline">
+            <h4 class="text-heading eta"><a href="//twitter.com/ooomf" title="Follow us on twitter!" target="_blank"><span class="icon icon-twitter text-info" aria-hidden="true"></span> Follow us</a></h4>
+          </div> <!-- close .no-underline -->
+      </div> <!-- close .clearfix -->
+
+      <div class="row">
+                            <div class="col-xs-12 col-sm-4 col-md-4 xs-margin-bottom-large sm-margin-bottom-large">
+  <div class="md-padding-null">
+
+    <div class="sm-margin-bottom md-margin-bottom">
+      <div class="content xs-text-center sm-text-left">
+        <p>“Just submitted our first project on <a href="//twitter.com/ooomf" title="Follow ooomf on Twitter!" target="_blank">@ooomf</a>! The super clean interface makes creating a project a breeze!”</p>
+      </div> <!-- close .content -->
+    </div> <!-- close .margin -->
+</div></div>
+       
+	 
+
+</div>
+</div>
+ </div> <!-- close .col -->
+ </div> <!-- close .sheet --></div>

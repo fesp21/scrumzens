@@ -1,0 +1,99 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "iron-router": {},
+      "chatworks": {},
+      "spin": {},
+      "accounts-entry": {},
+      "accounts-merge": {},
+      "accounts-linkedin": {},
+      "accounts-ui-bootstrap-3-blaze": {},
+      "roles": {},
+      "accounts-admin-ui-bootstrap-3": {},
+      "fullcalendar": {}
+    },
+    "packages": {
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.7.1",
+        "commit": "d1ffb3f06ea4c112132b030f2eb1a70b81675ecb"
+      },
+      "chatworks": {
+        "git": "https://github.com/Pent/chatworks.git",
+        "tag": "v1.6.4",
+        "commit": "c12dc87cc4c9a832ab616969a7b396060b40856a"
+      },
+      "spin": {
+        "git": "https://github.com/SachaG/meteor-spin.git",
+        "tag": "v0.2.2",
+        "commit": "3f655f0016228e4195acc784c45d3e3a247dc39f"
+      },
+      "accounts-entry": {
+        "git": "https://github.com/Differential/accounts-entry.git",
+        "tag": "v0.7.2",
+        "commit": "cda8617139b5edd79a52023986bfecb48e4b9dc4"
+      },
+      "accounts-merge": {
+        "git": "https://github.com/lirbank/meteor-accounts-merge.git",
+        "tag": "v0.0.2",
+        "commit": "f71ece342e9701c1360afedef0fd0894187670d4"
+      },
+      "accounts-linkedin": {
+        "git": "https://github.com/yefim/meteor-accounts-linkedin.git",
+        "tag": "v0.0.5",
+        "commit": "0ccf12b93f5cd6f487caa68a12a640099e358ffd"
+      },
+      "accounts-ui-bootstrap-3-blaze": {
+        "git": "https://github.com/rajit/meteor-accounts-ui-bootstrap-3.git",
+        "tag": "v0.3.6",
+        "commit": "e8b1d1f9a2518dd91562f8096bd0831ae27e4e41"
+      },
+      "roles": {
+        "git": "https://github.com/alanning/meteor-roles.git",
+        "tag": "v1.2.8",
+        "commit": "68844ba216c348d332bdb840825850f497f515bb"
+      },
+      "accounts-admin-ui-bootstrap-3": {
+        "git": "https://github.com/hharnisc/meteor-accounts-admin-ui-bootstrap-3.git",
+        "tag": "v0.2.5",
+        "commit": "381d4ca347f16d2ca2e1e6ca5f51c3f2e9c6c5cd"
+      },
+      "fullcalendar": {
+        "git": "https://github.com/TimHeckel/meteor-fullcalendar.git",
+        "tag": "v1.6.1",
+        "commit": "78dba7c564bf7baacf6556c70a3cc179d0e137c4"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.4",
+        "commit": "b40e9b0612329288d75cf52ad14a7da64bb8618f"
+      },
+      "just-i18n": {
+        "git": "https://github.com/subhog/meteor-just-i18n.git",
+        "tag": "v0.2.4",
+        "commit": "91decfcf5b3b5e67f202a67658350b862330bf3d"
+      },
+      "accounts-t9n": {
+        "git": "https://github.com/softwarerero/meteor-accounts-t9n.git",
+        "tag": "v0.0.3",
+        "commit": "d1710f979d6955459d9ce0374df81d22c3c6a6ab"
+      },
+      "linkedin": {
+        "git": "https://github.com/yefim/meteor-linkedin.git",
+        "tag": "v0.0.2",
+        "commit": "c3bac682ea0edd19e58b9172e708f91616888ba0"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.1.1-1",
+        "commit": "63dd38968828bb8963636df93e9a1c45e2dfe67e"
+      },
+      "jquery-ui": {
+        "git": "https://github.com/TimHeckel/meteor-jquery-ui.git",
+        "tag": "v1.9.2",
+        "commit": "c437d45edcf1367df8d5ffa8bad2867758030bd2"
+      }
+    }
+  }
+}

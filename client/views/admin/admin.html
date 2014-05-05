@@ -1,0 +1,11 @@
+<template name="admin">
+	
+	<ul>
+		{{#each onlineUsers}}
+			<li class="online-use"><span class="micro-avatar" style="background:url('{{avatar}}')"></span>{{nickname}}//<b>{{roomid}}</b>
+			</li>
+		{{/each}}
+		
+	</ul>
+	<br>
+</template>

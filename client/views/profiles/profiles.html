@@ -1,0 +1,146 @@
+<template name="profiles">
+	<div class="profiles">
+		<div class="container-fluid" style="background-color:#whitsmoke">
+			<div class="container container-pad" id="profile-listings">
+				<h1> Available Managers </h1>
+					<p> Providing top-quality management at a bargain </p>
+				<div class="row">
+					<div class="col-sm-12">
+						
+			{{#each profiles}}
+				{{> profile}}
+			{{/each}}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</template>
+
+<template name="profile">
+	<div class="container-fluid">
+		
+		<div class="profile-content">
+			<div class="row">
+				<div class="col-md-4 col-md-4"> 
+					{{#if ownProfile}}
+					
+					<a href="{{pathFor 'editProfile'}}"> Edit </a>
+					{{/if}}
+					<div class="thumbnail"><a class="pull-left" href="{{id}}" target="_parent"><img data-source="holder.js/300x200" class="img-responsive" src="{{image}}"></a></div>
+					<div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 profile-listing"> 
+						<div class="clearfix visible-sm"></div>
+						<div class="content fnt-smaller">
+							<h1><a href="{{pathfor 'profilePage'}}">{{name}}</a></h1>
+								<h2 class="media-heading">
+									<h3>${{price}} </h3>
+									<h3>{{address}}</h3>
+									
+								</h2>
+								<p>
+								<ul class="list-inline mrg-0 btm-mrg-10 clr-533333">	
+									<li>Education: {{education}}</li>
+									<li style="list-style: none"></li>
+									
+									<li>Experience: {{experience}}</li>
+									<li style="list-style: none"></li>
+									<li>About: {{projects}}</li>
+									<li style="list-style: none"></li>
+									<li>Background: {{background}}</li>
+									<li style="list-style: none"></li>
+									<li>Reviews: {{reviews}}</li>
+									<li style="list-style: none"></li>
+									<li>Online: {{available}}</li>
+									<li style="list-style: none"></li>
+									<li>LinkedIn: {{email}}</li>
+									<li style="list-style: none"></li>
+									
+								</ul>
+							</p>
+						</div>
+					</div>
+				</div>
+				</div>
+				<div class="profile-content">
+					<div class="row">
+						 
+					</div>
+						<div class="col-md-4 col-md-4"> 
+					
+							<div class="thumbnail"><a class="pull-left" href="{{id}}" target="_parent"><img data-source="holder.js/300x200" class="img-responsive" src="{{image}}">{{image}}</a></div>
+							<div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 profile-listing"> 
+								
+								<div class="content fnt-smaller">
+										<a href="{{pathfor 'profile'}}">
+											<h2>{{name}}</h2>
+										</a>
+										<h2 class="media-heading">
+											
+											${{price}} <small>{{address}}</small>
+										</h2>
+										<p>
+										<ul class="list-inline mrg-0 btm-mrg-10 clr-533333">	
+											<li>Education: {{education}}</li>
+											<li style="list-style: none"></li>
+									
+											<li>Experience: {{experience}}</li>
+											<li style="list-style: none"></li>
+											<li>About: {{projects}}</li>
+											<li style="list-style: none"></li>
+											<li>Background: {{background}}</li>
+											<li style="list-style: none"></li>
+											<li>Reviews: {{reviews}}</li>
+											<li style="list-style: none"></li>
+											<li>Online: {{available}}</li>
+											<li style="list-style: none"></li>
+											<li>LinkedIn: {{email}}</li>
+											<li style="list-style: none"></li>
+									
+										</ul>
+									</p>
+								</div>
+							</div>
+					
+						</div>
+						<div class="profile-content">
+							<div class="row"><div class="col-md-4 col-md-4"> 
+					
+							<div class="thumbnail"><a class="pull-left" href="{{id}}" target="_parent"><img data-source="holder.js/300x200" class="img-responsive" src="{{image}}">{{image}}</a></div>
+							<div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 profile-listing"> 
+								<div class="clearfix visible-sm"></div>
+								<div class="content fnt-smaller">
+										<a href="{{pathfor 'profilePage'}}" target="_parent">
+										</a>
+										<h2 class="media-heading">
+											<a href="{{pathfor 'profilePage'}}" target="_parent">${{price}} <h2>{{name}}</h2><small>{{address}}</small></a>
+										</h2>
+										<p>
+										<ul class="list-inline mrg-0 btm-mrg-10 clr-533333">	
+											<li>Education: {{education}}</li>
+											<li style="list-style: none"></li>
+									
+											<li>Experience: {{experience}}</li>
+											<li style="list-style: none"></li>
+											<li>About: {{projects}}</li>
+											<li style="list-style: none"></li>
+											<li>Background: {{background}}</li>
+											<li style="list-style: none"></li>
+											<li>Reviews: {{reviews}}</li>
+											<li style="list-style: none"></li>
+											<li>Online: {{available}}</li>
+											<li style="list-style: none"></li>
+											<li>LinkedIn: {{email}}</li>
+											<li style="list-style: none"></li>
+									
+										</ul>
+									</p>
+								</div>
+							</div>
+						 </div>
+								
+					</div>
+				</div> 	
+			</div>			
+		</div>
+	</div>
+</template>
